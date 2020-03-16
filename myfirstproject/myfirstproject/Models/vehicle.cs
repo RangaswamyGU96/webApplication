@@ -9,7 +9,7 @@ namespace myfirstproject.Models
     {
         public int Id { get; set; }
         public string VehicleType { get; set; }
-        public List<Vehiclecategory> Vehiclecategory { get; set; }
+        //public List<Vehiclecategory> Vehiclecategory { get; set; }
 
     }
 }

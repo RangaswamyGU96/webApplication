@@ -14,7 +14,7 @@ namespace myfirstproject.Controllers
         {
             var vehicle1 = new vehicle() { VehicleType = "car" , Id =01};
 
-            var categoryname = new List<vehicle>
+            //var categoryname = new List<vehicle>
             //var Listofvehicles = new List<vehicle>
             //{
             //    new vehicle{ VehicleType ="Bike"},
